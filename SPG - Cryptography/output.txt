@@ -1,2 +1,5 @@
 Your Password : t*!zGnf#LKO~drVQc@n%oFFZyvhvGZq8zbfXKvE1#*R%uh*$M6c$zrxWedrAENFJB7xz0ps4zh94EwZOnVT9&h
 Encrypted Flag : GKLlVVw9uz/QzqKiBPAvdLA+QyRqyctsPJ/tx8Ac2hIUl8/kJaEvHthHUuwFDRCs
+
+Decrypted MASTER_KEY: y0u_g0t_m3!
+Flag: HTB{m4ll34bl3_p4ssw0rd_g3n3r4t0r!}
