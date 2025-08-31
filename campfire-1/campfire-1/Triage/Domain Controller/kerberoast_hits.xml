@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.153123Z">
+    </TimeCreated>
+    <EventRecordID>6461</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="5268">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.153126Z">
+    </TimeCreated>
+    <EventRecordID>6462</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="360">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.524576Z">
+    </TimeCreated>
+    <EventRecordID>6463</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="1028">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.524901Z">
+    </TimeCreated>
+    <EventRecordID>6464</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="1028">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.535074Z">
+    </TimeCreated>
+    <EventRecordID>6465</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="968">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.974815Z">
+    </TimeCreated>
+    <EventRecordID>6473</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="968">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:05:54.983747Z">
+    </TimeCreated>
+    <EventRecordID>6475</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="968">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:06:15.738068Z">
+    </TimeCreated>
+    <EventRecordID>6477</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="968">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:06:15.766590Z">
+    </TimeCreated>
+    <EventRecordID>6479</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="968">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:12:05.802903Z">
+    </TimeCreated>
+    <EventRecordID>6553</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="2396">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">alonzo.spire@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:12:05.905271Z">
+    </TimeCreated>
+    <EventRecordID>6556</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="5376">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">alonzo.spire@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:13:02.043851Z">
+    </TimeCreated>
+    <EventRecordID>6566</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="5376">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">alonzo.spire@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:15:12.644373Z">
+    </TimeCreated>
+    <EventRecordID>6586</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="5240">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:18:09.459682Z">
+    </TimeCreated>
+    <EventRecordID>6672</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="5376">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">alonzo.spire@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:18:51.902851Z">
+    </TimeCreated>
+    <EventRecordID>6674</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="4444">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">Administrator@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
+--
+<?xml version="1.0" encoding="utf-8"?>
+<Event xmlns="http://schemas.microsoft.com/win/2004/08/events/event">
+  <System>
+    <Provider Name="Microsoft-Windows-Security-Auditing" Guid="54849625-5478-4994-A5BA-3E3B0328C30D">
+    </Provider>
+    <EventID>4769</EventID>
+    <Version>0</Version>
+    <Level>0</Level>
+    <Task>14337</Task>
+    <Opcode>0</Opcode>
+    <Keywords>0x8020000000000000</Keywords>
+    <TimeCreated SystemTime="2024-05-21T03:20:24.210481Z">
+    </TimeCreated>
+    <EventRecordID>6684</EventRecordID>
+    <Correlation>
+    </Correlation>
+    <Execution ProcessID="748" ThreadID="936">
+    </Execution>
+    <Channel>Security</Channel>
+    <Computer>DC01.forela.local</Computer>
+    <Security>
+    </Security>
+  </System>
+  <EventData>
+    <Data Name="TargetUserName">DC01$@FORELA.LOCAL</Data>
+    <Data Name="TargetDomainName">FORELA.LOCAL</Data>
